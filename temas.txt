@@ -1,0 +1,10 @@
+Introduccion a la programacion
+Procesos de software
+Tecnologias emergentes
+React native  
+Mineria de datos 
+Big data
+Machine Learning 
+IoT 
+Xamarin Forms
+Python para IA 

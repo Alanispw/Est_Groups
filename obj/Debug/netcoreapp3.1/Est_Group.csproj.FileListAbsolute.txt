@@ -1,0 +1,12 @@
+/Users/code/Desktop/Est_Group/bin/Debug/netcoreapp3.1/Est_Group.deps.json
+/Users/code/Desktop/Est_Group/bin/Debug/netcoreapp3.1/Est_Group.runtimeconfig.json
+/Users/code/Desktop/Est_Group/bin/Debug/netcoreapp3.1/Est_Group.runtimeconfig.dev.json
+/Users/code/Desktop/Est_Group/bin/Debug/netcoreapp3.1/Est_Group.dll
+/Users/code/Desktop/Est_Group/bin/Debug/netcoreapp3.1/Est_Group.pdb
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.csprojAssemblyReference.cache
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.AssemblyInfoInputs.cache
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.AssemblyInfo.cs
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.csproj.CoreCompileInputs.cache
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.dll
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.pdb
+/Users/code/Desktop/Est_Group/obj/Debug/netcoreapp3.1/Est_Group.genruntimeconfig.cache
